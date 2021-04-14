@@ -10,8 +10,4 @@ Be sure to check OutputEC.txt for case 2 and 3 error correction for EC.
 
 Compile your Parser on Empress!!!
 
-/cs/submitIt_LK G# group#parser.out
- along with required info in parserWork.txt
 
-/cs/checkIt_LK G#
-can be used to get my feedback.
