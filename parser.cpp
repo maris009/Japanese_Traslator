@@ -3,15 +3,13 @@
 #include<string>
 using namespace std;
 
-/* INSTRUCTION:  Complete all ** parts.
-   You may use any method to connect this file to scanner.cpp
-   that you had written.
+/*
   e.g. You can copy scanner.cpp here by:
           cp ../ScannerFiles/scanner.cpp .
        and then append the two files into one:
           cat scanner.cpp parser.cpp > myparser.cpp
           // WORD DFA
-// Done by: *JuiYu Huang *
+
 // RE:   * (vowel | vowel n | consonant vowel | consonant vowel n |consonant-pair vowel | consonant-pair vowel n)\
 ^+ */
 bool word(string s)
