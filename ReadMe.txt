@@ -1,4 +1,4 @@
-Parser Part of the Project
+Project was done in part, parser part, follow by scanner part, and all put together for the translator part.
 
 Use parser.cpp to do your parser so that
 it will move smoothly onto the translator.
